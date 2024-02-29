@@ -60,34 +60,34 @@
 
 > 비로그인 시 메인 & 디테일 페이지
 
-<img src="./image/nonLoginMain.png" width="200" height="400"><img src="./image/nonLoginDetail.png" width="200" height="400">
+<img src="./image/nonLoginMain.png" width="200" height="400"> <img src="./image/nonLoginDetail.png" width="200" height="400">
 <br/>
 <br/>
 
 > 회원가입 / 로그인
 
-<img src="./image/SignupPage.png" width="200" height="400"><img src="./image/LoginPage.png" width="200" height="400">
+<img src="./image/SignupPage.png" width="200" height="400"> <img src="./image/LoginPage.png" width="200" height="400">
 <br/>
 <br/>
 
 > 로그인 시 술 리스트 & 디테일 & 리뷰 페이지
 
-<img src="./image/DrinkListPage.png" width="200" height="400"><img src="./image/LoginDetail.png" width="200" height="400"><img src="./image/ReviewPage.png" width="200" height="400">
+<img src="./image/DrinkListPage.png" width="200" height="400"> <img src="./image/LoginDetail.png" width="200" height="400"> <img src="./image/ReviewPage.png" width="200" height="400">
 <br/>
 <br/>
 
 > 태그 및 도수 검색 페이지
 
-<img src="./image/SearchPage.png" width="200" height="400"><img src="./image/TagSearch.png" width="200" height="400">
+<img src="./image/SearchPage.png" width="200" height="400"> <img src="./image/TagSearch.png" width="200" height="400">
 <br/>
 <br/>
 
 > 지도 페이지 (시, 도)
 
-<img src="./image/MapPage.png" width="200" height="400"><img src="./image/MapPage2.png" width="200" height="400">
+<img src="./image/MapPage.png" width="200" height="400"> <img src="./image/MapPage2.png" width="200" height="400">
 <br/>
 <br/>
 
 > 나의 위시리스트 & 마이페이지
 
-<img src="./image/WishList.png" width="200" height="400"><img src="./image/MyPage.png" width="200" height="400">
+<img src="./image/WishList.png" width="200" height="400"> <img src="./image/MyPage.png" width="200" height="400">
